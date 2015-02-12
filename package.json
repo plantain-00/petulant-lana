@@ -1,0 +1,12 @@
+{
+  "name": "petulant-lana",
+  "version": "0.0.1",
+  "repository": "https://github.com/plantain-00/petulant-lana",
+  "description": "generate token by password, timestamp and user id.",
+  "devDependencies": {
+    "assert": "^1.3.0"
+  },
+  "dependencies": {
+    "blueimp-md5": "^1.1.0"
+  }
+}
