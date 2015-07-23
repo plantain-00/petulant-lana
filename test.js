@@ -1,7 +1,3 @@
-/**
- * Created by yaoyao on 15/2/11.
- */
-var assert = require("assert");
 var retriever = require("./index.js");
 
 describe('index.js', function () {
